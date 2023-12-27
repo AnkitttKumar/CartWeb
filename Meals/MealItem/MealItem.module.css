@@ -1,0 +1,23 @@
+li {
+  padding: 0.5rem;
+}
+
+.meal {
+  border-bottom: 0.5px solid black;
+}
+li h3 {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-weight: 300;
+}
+.description {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-style: italic;
+  font-weight: lighter;
+}
+.price {
+  color: rgb(196, 117, 49);
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: large;
+  font-weight: bold;
+}
